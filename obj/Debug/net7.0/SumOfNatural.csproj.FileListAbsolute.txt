@@ -1,0 +1,15 @@
+C:\Mon_Code\SumOfNatural\bin\Debug\net7.0\SumOfNatural.exe
+C:\Mon_Code\SumOfNatural\bin\Debug\net7.0\SumOfNatural.deps.json
+C:\Mon_Code\SumOfNatural\bin\Debug\net7.0\SumOfNatural.runtimeconfig.json
+C:\Mon_Code\SumOfNatural\bin\Debug\net7.0\SumOfNatural.dll
+C:\Mon_Code\SumOfNatural\bin\Debug\net7.0\SumOfNatural.pdb
+C:\Mon_Code\SumOfNatural\obj\Debug\net7.0\SumOfNatural.csproj.AssemblyReference.cache
+C:\Mon_Code\SumOfNatural\obj\Debug\net7.0\SumOfNatural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\SumOfNatural\obj\Debug\net7.0\SumOfNatural.AssemblyInfoInputs.cache
+C:\Mon_Code\SumOfNatural\obj\Debug\net7.0\SumOfNatural.AssemblyInfo.cs
+C:\Mon_Code\SumOfNatural\obj\Debug\net7.0\SumOfNatural.csproj.CoreCompileInputs.cache
+C:\Mon_Code\SumOfNatural\obj\Debug\net7.0\SumOfNatural.dll
+C:\Mon_Code\SumOfNatural\obj\Debug\net7.0\refint\SumOfNatural.dll
+C:\Mon_Code\SumOfNatural\obj\Debug\net7.0\SumOfNatural.pdb
+C:\Mon_Code\SumOfNatural\obj\Debug\net7.0\SumOfNatural.genruntimeconfig.cache
+C:\Mon_Code\SumOfNatural\obj\Debug\net7.0\ref\SumOfNatural.dll
